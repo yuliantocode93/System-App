@@ -10,7 +10,7 @@
 - Scalability
 - Developer Experience
 
-  Source:https://next.org
+  Source:https://nextjs.org
 
 
   
